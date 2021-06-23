@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @evelynAnais
-- 👀 I’m interested in tech and sustainability
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything fun that will push my understanding
+- 🌱 🖥 in tech and sustainability
+- 📚 📖 JavaScript
+- 💪 🧠 to collaborate on anything fun that will push my understanding
 - 📫 How to reach me https://www.linkedin.com/in/evelyn-ploughman-85a9871a5/
 
 <!---
